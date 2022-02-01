@@ -1,4 +1,4 @@
-# visual_studio_settings
+# visual_studio_code_settings
 settings.json
 
 {
